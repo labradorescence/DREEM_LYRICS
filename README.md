@@ -33,7 +33,6 @@ Cookie/session to track user's view count to add advertisement video
 * Ruby on Rails
 * SQLite3
 * HTML/CSS
-* ActiveRecord
 * [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord): interface that Rails gives you between the database and your application. It is an implementation of the Active Record pattern which itself is a description of an Object Relational Mapping system.
 * [sqlite3](https://rubygems.org/gems/sqlite3/versions/1.3.11): a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. 
 
