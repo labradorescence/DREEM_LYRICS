@@ -2,7 +2,7 @@
 
 DREEMLYRICS is a Web Development App with Ruby on Rails that helps user to memorize lyrics. Created by Darren Koomson and Greem J. H. P. Lee.
 
-![welcome](localhost:3000/lyrics)
+
 
 ## Getting Started
     1. Clone this repository onto your local machine.
@@ -36,5 +36,3 @@ Cookie/session to track user's view count to add advertisement video
 * [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord): interface that Rails gives you between the database and your application. It is an implementation of the Active Record pattern which itself is a description of an Object Relational Mapping system.
 * [sqlite3](https://rubygems.org/gems/sqlite3/versions/1.3.11): a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. 
 
-## Screen shots
-![menu](localhost:3000)
