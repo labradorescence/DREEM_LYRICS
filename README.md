@@ -11,23 +11,19 @@ DREEMLYRICS is a Web Development App with Ruby on Rails that helps user to memor
     4. Run `rake db:seed` to seed the database with some auto-generated data.
     5. Once you've installed everything smoothly, run `rails s` to start the app!
 
-## Main Menu
-    * Welcome
+## Feature
+    * CRUD Operations
+    * ActiveRecord Associations
     * Browse songs
+    * Cookie/session to track user's view count to add advertisement video
     * Sign-up
     * Log in
+    * Password Authentication
     * Select a song
     * Memorize lines of lyrics
     * Save the memorized lyrics in your profile
     * Edit profile
     * Log out
-
-## Feature
-Log in feature
-Password Authentication
-CRUD Operations
-ActiveRecord Associations
-Cookie/session to track user's view count to add advertisement video
 
 ## Built with 
 * Ruby on Rails
